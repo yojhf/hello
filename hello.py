@@ -1,5 +1,4 @@
 import random
-random.random()
 
 print("Hello World")
 print("짜장면이냐 짬뽕이냐?")
